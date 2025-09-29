@@ -1,25 +1,3 @@
-# 👋 Merhaba, ben Emir Topaloğlu  
-
-🎓 İstanbul Aydın Üniversitesi’nde bilgisayar mühendisliği 3. sınıf öğrencisiyim.  
-💻 Yazılım geliştirme alanında özellikle **Java, SQL, HTML/CSS, JavaScript ve C** dillerinde deneyim sahibiyim.  
-
-## 🚀 Projelerim
-- **Java Backend & MySQL:** Veritabanı entegrasyonu olan not tutma uygulaması.  
-- **Java Swing:** Çalışan kayıt formu ve masaüstü uygulamaları.  
-- **Web Geliştirme (HTML/CSS/JS):** Kişisel web sitesi ve frontend çalışmalar.  
-
-## 🛠️ Kullandığım Teknolojiler
-- **Backend:** Java, MySQL  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Araçlar:** IntelliJ IDEA, Eclipse, Git/GitHub  
-
-## 🎯 Hedeflerim
-- Yazılım alanında kendimi sürekli geliştirmek  
-- Açık kaynak projelere katkı sağlamak  
-- Gelecekte kendi **startup**’ımı kurarak yenilikçi projeler geliştirmek  
-
----
-
 # 👋 Hi, I’m Emir Topaloğlu  
 
 🎓 I am a 3rd year student of computer engineering at **Istanbul Aydın University**.  
